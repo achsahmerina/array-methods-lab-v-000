@@ -3,9 +3,9 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  array_numbers = ["10", "5", "11", "2"]
+  array_numbers = ["10", "wow", "11", "2"]
   array_numbers.sort
-    
+
 end
 
 def using_reverse(array)
