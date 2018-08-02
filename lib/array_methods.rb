@@ -3,7 +3,7 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  array_numbers = ["10", "wow", "11", "2"]
+  array_numbers = ["I", "wow", "11", "2"]
   array_numbers.sort
 
 end
