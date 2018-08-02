@@ -18,7 +18,7 @@ def using_first(array)
 end
 
 def using_last(array)
-  array_numbers = ["wow", "dog", "eyes", "arrays!", "6"]
+  array_numbers = ["wow", "dog", "eyes", "arrays!"]
   array_numbers.last
 end
 
